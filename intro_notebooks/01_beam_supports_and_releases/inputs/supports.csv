@@ -1,0 +1,16 @@
+configuration_id,node,support_DX,support_DY,support_DZ,support_RX,support_RY,support_RZ
+FF,A,1,1,1,1,1,1
+FF,MID,0,0,1,1,1,0
+FF,B,1,1,1,1,1,1
+PR,A,1,1,1,1,1,0
+PR,MID,0,0,1,1,1,0
+PR,B,0,1,1,1,1,0
+FP_SUPPORT,A,1,1,1,1,1,1
+FP_SUPPORT,MID,0,0,1,1,1,0
+FP_SUPPORT,B,0,1,1,1,1,0
+FF_REL_RIGHT,A,1,1,1,1,1,1
+FF_REL_RIGHT,MID,0,0,1,1,1,0
+FF_REL_RIGHT,B,1,1,1,1,1,1
+FF_REL_BOTH,A,1,1,1,1,1,1
+FF_REL_BOTH,MID,0,0,1,1,1,0
+FF_REL_BOTH,B,1,1,1,1,1,1
