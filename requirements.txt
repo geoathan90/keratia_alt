@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+jupyter
+ipykernel
+nbformat
+openpyxl
+pyvista
+PyniteFEA
