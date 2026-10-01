@@ -1,0 +1,6 @@
+configuration_id,description,teaching_point
+FF,Fixed-fixed supports,Node rotations restrained at both beam ends
+PR,Pin-roller supports,End nodes are free to rotate
+FP_SUPPORT,Fixed-left and pinned-right via supports,Right node RZ is free
+FF_REL_RIGHT,Fixed support nodes with right member release,Right node RZ is fixed but M2 cannot transfer Mz into it
+FF_REL_BOTH,Fixed support nodes with both beam-end releases,Both end nodes RZ are fixed but the beam cannot transfer Mz into them
