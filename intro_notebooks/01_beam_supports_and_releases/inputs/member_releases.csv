@@ -1,0 +1,4 @@
+configuration_id,member,Dxi,Dyi,Dzi,Rxi,Ryi,Rzi,Dxj,Dyj,Dzj,Rxj,Ryj,Rzj
+FF_REL_RIGHT,M2,0,0,0,0,0,0,0,0,0,0,0,1
+FF_REL_BOTH,M1,0,0,0,0,0,1,0,0,0,0,0,0
+FF_REL_BOTH,M2,0,0,0,0,0,0,0,0,0,0,0,1
