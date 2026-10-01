@@ -1,0 +1,38 @@
+node_id,node_label,support_type,custom_DX,custom_DY,custom_DZ,custom_RX,custom_RY,custom_RZ,notes
+0,center,free,False,False,False,False,False,False,
+1,high_xneg,free,False,False,False,False,False,False,
+2,high_xpos,free,False,False,False,False,False,False,
+3,top_xneg_ypos,free,False,False,False,False,False,False,
+4,top_xneg_yneg,free,False,False,False,False,False,False,
+5,top_xpos_ypos,free,False,False,False,False,False,False,
+6,top_xpos_yneg,free,False,False,False,False,False,False,
+7,base_xneg_ypos,fixed,False,False,False,False,False,False,Notebook-05 baseline support
+8,base_xneg_yneg,fixed,False,False,False,False,False,False,Notebook-05 baseline support
+9,base_xpos_ypos,fixed,False,False,False,False,False,False,Notebook-05 baseline support
+10,base_xpos_yneg,fixed,False,False,False,False,False,False,Notebook-05 baseline support
+11,z5_e02_top_xneg_ypos_d1942,free,False,False,False,False,False,False,
+12,z5_e02_top_xneg_ypos_d3918,free,False,False,False,False,False,False,
+13,z5_e02_top_xneg_ypos_d4906,free,False,False,False,False,False,False,
+14,z5_e03_top_xneg_yneg_d1942,free,False,False,False,False,False,False,
+15,z5_e03_top_xneg_yneg_d3918,free,False,False,False,False,False,False,
+16,z5_e03_top_xneg_yneg_d4906,free,False,False,False,False,False,False,
+17,z5_e04_top_xpos_ypos_d1942,free,False,False,False,False,False,False,
+18,z5_e04_top_xpos_ypos_d3918,free,False,False,False,False,False,False,
+19,z5_e04_top_xpos_ypos_d4906,free,False,False,False,False,False,False,
+20,z5_e05_top_xpos_yneg_d1942,free,False,False,False,False,False,False,
+21,z5_e05_top_xpos_yneg_d3918,free,False,False,False,False,False,False,
+22,z5_e05_top_xpos_yneg_d4906,free,False,False,False,False,False,False,
+23,z5_e01_center_high_xpos_d1650,free,False,False,False,False,False,False,
+24,z5_e01_center_high_xpos_d3530,free,False,False,False,False,False,False,
+25,z5_e01_center_high_xpos_d4460,free,False,False,False,False,False,False,
+26,z5_e00_center_high_xneg_d1650,free,False,False,False,False,False,False,
+27,z5_e00_center_high_xneg_d3530,free,False,False,False,False,False,False,
+28,z5_e00_center_high_xneg_d4460,free,False,False,False,False,False,False,
+29,z5_e10_mid,free,False,False,False,False,False,False,
+30,z5_e12_mid,free,False,False,False,False,False,False,
+31,z5_e14_mid,free,False,False,False,False,False,False,
+32,z5_e15_mid,free,False,False,False,False,False,False,
+33,z5_e16_mid,free,False,False,False,False,False,False,
+34,z5_e17_mid,free,False,False,False,False,False,False,
+35,z5_e19_mid,fixed,False,False,False,False,False,False,Notebook-05 baseline support
+36,z5_e21_mid,fixed,False,False,False,False,False,False,Notebook-05 baseline support
