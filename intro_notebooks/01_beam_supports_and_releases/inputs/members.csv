@@ -1,0 +1,3 @@
+member,i_node,j_node,material,section
+M1,A,MID,Steel,DemoSection
+M2,MID,B,Steel,DemoSection
